@@ -18,9 +18,7 @@ In my personal opinion, there are two big phases:
  ##     1. Understand the business, strategy, and stakeholders.
  ##     2. Understand the business cases and the final users.
 
-### In the understanding business phase:
-
-I used 3 great tools:
+### During the phase of understanding the business, I used 3 great tools:
 
       ### Business Model Canvas:
 It defines the value proposition to the customer, how the business delivers the value proposition, and what the key resources are for that. In addition, it outlines the cost and sales structure for the business.
@@ -32,9 +30,7 @@ To understand what is important for the company or business unit in terms of suc
 Understand how many players are in the business, what their authority is, their technical level, and how they are involved in the data field.
 
 
-### In the understanding business cases phase:
-
-I used 2 great tools:
+### Finally, during the phase of understanding business cases, I used 2 great tools:
 
       ### User journey:
 Understand how final users are involved with the project, at what part of their journey it will insert, and what other tools or processes they have.
