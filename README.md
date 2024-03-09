@@ -18,7 +18,7 @@ In my personal opinion, there are two big phases:
  ##     1. Understand the business, strategy, and stakeholders.
  ##     2. Understand the business cases and the final users.
 
-In the first phase:
+### In the understanding business phase:
 
 I used 3 great tools:
 
@@ -32,7 +32,8 @@ To understand what is important for the company or business unit in terms of suc
 Understand how many players are in the business, what their authority is, their technical level, and how they are involved in the data field.
 
 
-In the second phase:
+### In the understanding business cases phase:
+
 I used 2 great tools:
 
       ### User journey:
